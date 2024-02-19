@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Lorenzo! 👋
 
-<!--
-**orlandolorenzo724/orlandolorenzo724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java Engineer based in Italy. 
 
-Here are some ideas to get you started:
+I love working on Microservices Architectures with Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: Java, Typescript, Python
+- Frameworks & Libraries: Spring, Spring Boot, Java Server Faces, Angular
+- Databases: PostgreSQL, MySQL, Oracle
+- Caching: Redis, H2
+- DevOps: Docker, Jenkins, OpenShift
+- Operating System: Linux, MacOS, Windows
+- Versioning System: Git
+- Data Stream Processing: Kafka, RabbitMQ
+
+## 🌱 Currently Learning
+
+I'm currently exploring Kubernetes to enhance my skills in DevOps.
+
+## 📫 Let's Connect
+
+Feel free to connect with me on:
+
+- [Medium](https://medium.com/@orlandolorenzodeveloper)
+
+Thanks for visiting my profile! 
