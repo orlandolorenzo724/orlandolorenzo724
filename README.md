@@ -2,8 +2,6 @@
 
 I'm a passionate Java Engineer based in Italy. 
 
-I love working on Microservices Architectures with Spring Boot.
-
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
